@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "Drawer Resize",
+  "identifier": "drawer_resize",
+  "author": "cfigure",
+  "github": "https://github.com/cfigure/Lumiverse-Drawer-Resize",
+  "homepage": "https://github.com/cfigure/Lumiverse-Drawer-Resize",
+  "description": "A tiny personal Canvas fork that only adds reliable manual resizing to Lumiverse's main drawer.",
+  "permissions": [],
+  "entry_frontend": "dist/frontend.js",
+  "minimum_lumiverse_version": "0.1.0"
+}
